@@ -1,4 +1,4 @@
-Customer Churn Prediction & Segmentation with Python & Power BI
+<img width="1436" height="796" alt="image" src="https://github.com/user-attachments/assets/1aaaf75d-55c1-41ab-b993-7d722bc875f4" />Customer Churn Prediction & Segmentation with Python & Power BI
 This end-to-end project identifies potential churners in a bank’s customer base using machine learning, and visualizes actionable insights through an interactive Power BI dashboard.
 Project Overview
 Many businesses struggle to retain customers. This project focuses on predicting customer churn and segmenting users for targeted retention strategies using both Python and Power BI.
